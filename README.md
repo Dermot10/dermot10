@@ -1,4 +1,7 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/edddf5ad-37d5-41bc-b2fd-2ba422350891)
+![github-header-image (2)](https://github.com/user-attachments/assets/e93fcf9c-e416-4185-b7f8-356e20d83884)
+
+Welcome to my github! 
+I'm super passionate about backend development, system design and automation! Check out a few of my projects ranging from AI to cyber security.
 
 <!--
 **Dermot10/dermot10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
