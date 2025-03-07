@@ -1,5 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/776cb7e1-f0be-4b9c-837e-2dc4c164b2b6)
-
+![github-header-image (2)](https://github.com/user-attachments/assets/bd78adf6-b7e5-440e-9cfd-8c37669015f4)
 
 Hey I'm Dermot, welcome to my GitHub! 
 ✨ My passions are software development, system design, and automation.✨
