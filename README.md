@@ -1,4 +1,5 @@
 ## Hi there 👋
+![github-header-image](https://github.com/user-attachments/assets/ac3d1e09-2629-4e49-baf4-6103595728e0)
 
 <!--
 **Dermot10/dermot10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
