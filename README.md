@@ -2,6 +2,6 @@
 
 Hey I'm Dermot, welcome to my GitHub!  
 ✨ My passions are software development, system design, and automation.✨  
-I'm always learning, building and optimizing. 🚀
+I'm always building and optimizing. 🚀
 
 
